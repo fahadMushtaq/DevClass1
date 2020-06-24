@@ -2,7 +2,7 @@
 #!/usr/bin/python
 from flask import Flask
 
-PORT = 8080
+PORT = 9090
 MESSAGE = "In the name of Allah : Hello, world 123890!\n"
 
 app = Flask(__name__)
