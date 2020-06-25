@@ -3,7 +3,7 @@
 from flask import Flask
 
 PORT = 9090
-MESSAGE = "In the name of Allah : 12344999!\n"
+MESSAGE = "In the name of Allah : 4343!\n"
 
 app = Flask(__name__)
 
